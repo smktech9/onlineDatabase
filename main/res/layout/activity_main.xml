@@ -15,16 +15,6 @@
         android:layout_marginTop="100dp"
         android:onClick="addContacts"/>
 
-    <Button
-        android:id="@+id/view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="view contact"
-        android:layout_marginTop="300dp"
-        android:layout_marginLeft="100dp"
-        android:onClick="viewContacts"
-        />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
